@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Tour-Task/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Tour-Task/static/js/main.07b49b15.chunk.js",
+    "main.js.map": "/Tour-Task/static/js/main.07b49b15.chunk.js.map",
+    "runtime-main.js": "/Tour-Task/static/js/runtime-main.e9a09e99.js",
+    "runtime-main.js.map": "/Tour-Task/static/js/runtime-main.e9a09e99.js.map",
+    "static/js/2.56b9dd1c.chunk.js": "/Tour-Task/static/js/2.56b9dd1c.chunk.js",
+    "static/js/2.56b9dd1c.chunk.js.map": "/Tour-Task/static/js/2.56b9dd1c.chunk.js.map",
+    "static/js/3.2bb315dd.chunk.js": "/Tour-Task/static/js/3.2bb315dd.chunk.js",
+    "static/js/3.2bb315dd.chunk.js.map": "/Tour-Task/static/js/3.2bb315dd.chunk.js.map",
+    "index.html": "/Tour-Task/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Tour-Task/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.56b9dd1c.chunk.js.LICENSE.txt": "/Tour-Task/static/js/2.56b9dd1c.chunk.js.LICENSE.txt",
+    "static/media/home.31a503f1.jpg": "/Tour-Task/static/media/home.31a503f1.jpg",
+    "static/media/log.4aa51fc9.jpg": "/Tour-Task/static/media/log.4aa51fc9.jpg",
+    "static/media/reg.dffbf42d.jpg": "/Tour-Task/static/media/reg.dffbf42d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9a09e99.js",
+    "static/js/2.56b9dd1c.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.07b49b15.chunk.js"
+  ]
+}
